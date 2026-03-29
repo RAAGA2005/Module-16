@@ -34,8 +34,7 @@ To write a Python function `def insert(self, k):` to insert the nodes in a **B-T
 ## PYTHON PROGRAM
 
 ```python
-#Reg no:212222060013
-#Name: AKSHAIYAN S
+
 
 # Searching a key on a B-tree in Python
 
